@@ -18,7 +18,7 @@ Welcome to the Music Player Application! This web-based music player allows you 
 
 ## Demo
 
-[View Demo](https://parin-parikh.github.io/Music-player/) 
+[View Demo](https://parin-parikh.github.io/Music-Player/) 
 
 
 ## Getting Started
